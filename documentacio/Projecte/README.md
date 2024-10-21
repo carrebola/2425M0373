@@ -1,6 +1,3 @@
----
-dg-publish: true
----
 
 [Prototip amb Figma](https://www.figma.com/design/kgmRC7xA59bnVGeaYC7bU9/GLAMOUR-CAMPING---Camping---Landing-page-website-(Community)?node-id=0-1&node-type=canvas&t=BG2DLvImDTYKeD2h-0) | [Tecnologies i Llenguatges emprats al mòdul 0373](link-to-tecnologies-llenguatges)
 
