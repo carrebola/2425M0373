@@ -6,11 +6,11 @@ Crea els menús corresponents
 
 - Actualitza el header de home per tal de que es mostri el logo, el menú superior i el titol
 
- ![[Pasted image 20241021150053.png]]
+ ![header.png](header.png)
  
 - Afegeix a les pàgines 'articles' un header com el següent:
 
-![[Pasted image 20241021150128.png]]
+![alt text](image.png)
 ### Tasca 2. Sitemap
 
 -  Crea el menú per al sitemap

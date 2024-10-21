@@ -1,4 +1,4 @@
-# Història 1 - Configuració i Treball amb GitHub Codespaces.md
+# Història 1 - Configuració i Treball amb GitHub Codespaces
 ## **Objectiu:** 
 Configurar un entorn de desenvolupament utilitzant GitHub Codespaces i començar a treballar en el projecte web, creant les tres pàgines HTML segons els requisits definits.
 ## Tasques:
