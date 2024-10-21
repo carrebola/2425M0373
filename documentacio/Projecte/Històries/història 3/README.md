@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+# Història 3 - Estils generals CSS
 ## Objectiu:
 
 Actualitzar la pàgina home i articles amb l'aspecte definit a la guia d'estils.
@@ -17,11 +15,11 @@ Actualitzar la pàgina home i articles amb l'aspecte definit a la guia d'estils.
 	
 	*El resultat final hauria de ser com aquest:*
 
-![[Pasted image 20241004105014.png]]
+![](image.png)
 
-![[Pasted image 20241004105152.png]]
+![](image1.png)
 
-![[Pasted image 20241004105115.png]]
+![](image2.png)
 
 ### Tasca 2. Estils per les pàgines d'articles 
 
