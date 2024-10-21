@@ -1,7 +1,4 @@
----
-dg-publish: true
----
-[[M0373 - Projecte 1 'Glamour Camping']]
+# Història 1 - Configuració i Treball amb GitHub Codespaces.md
 ## **Objectiu:** 
 Configurar un entorn de desenvolupament utilitzant GitHub Codespaces i començar a treballar en el projecte web, creant les tres pàgines HTML segons els requisits definits.
 ## Tasques:
