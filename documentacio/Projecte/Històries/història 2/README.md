@@ -1,6 +1,4 @@
----
-dg-publish: true
----
+# Història 2 - Actualització de la pàgina Home i els articles
 ## Objectiu: 
 
 Actualitza les pàgines HTML que mostrin els articles proporcionats, així com la pàgina principal, utilitzant les etiquetes HTML adequades per estructurar i formatar el contingut de manera semàntica.
@@ -10,7 +8,8 @@ Actualitza les pàgines HTML que mostrin els articles proporcionats, així com l
 - Utilitzar etiquetes HTML com `<h1>`, `<h2>`, `<p>`, `<strong>`, `<em>`, `<blockquote>`, i llistes `<ul>` o `<ol>` per formatar el contingut adequadament.
 
 	*Exemple de com quedaria la pàgina ``article1.html``*
-	![[Pasted image 20240826165922.png]]
+
+	![](image.png)
 
 
 ### Tasca 2. Actualització dels continguts textuals de la pàgina 'Home' (``index.html``)
@@ -69,10 +68,10 @@ Actualitza les pàgines HTML que mostrin els articles proporcionats, així com l
 
 *El resultat de la pàgina home amb una part dels continguts de les seccions **about** i **booking** seria semblant al següent:*
 
-![[Pasted image 20240826175742.png]]
-![[Pasted image 20240826175823.png]]
-![[Pasted image 20240826175857.png]]
-![[Pasted image 20240826175919.png]]
+![](image1.png)
+![](image2.png)
+![](image3.png)
+![](image4.png)
 
 ### Tasca 3. Comprovació i Confirmació de Canvis:
     
@@ -83,7 +82,7 @@ Actualitza les pàgines HTML que mostrin els articles proporcionats, així com l
     
 - **Documenta el teu treball:** Documenta el que has fet a l'arxiu ``readme.md`` i actualitza el repositori.
 
-	![[Pasted image 20240826180335.png]]
+	![](image5.png)
 
 
 ## Recursos
