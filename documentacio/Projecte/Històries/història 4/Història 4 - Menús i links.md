@@ -16,7 +16,9 @@ Crea els menús corresponents
 -  Crea el menú per al sitemap
 ### Tasca 3. Links
 
--  Actualitza la web home per tal que les imatges i els texts 'read' permetin obrir les pagines dels articles corresponents.
+-  Actualitza la secció articles de la pàgina 'home' amb la informació dels tres articles que hem creat a la història anterior. 
+-  Modifica les imatges i el text 'read' de manera que permetin obrir les pagines dels articles corresponents en la mateixa petanya.
+
 ### Tasca 4. Comprovació i Confirmació de Canvis:
     
 - **Visualitza els canvis:** Utilitza l'entorn de GitHub Codespaces per visualitzar i provar les pàgines web en un navegador integrat.
@@ -26,6 +28,6 @@ Crea els menús corresponents
     
 - **Documenta el teu treball:** Documenta el que has fet a l'arxiu ``readme.md`` .
 
-## Recursos
+
 
 

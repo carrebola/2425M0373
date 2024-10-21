@@ -7,18 +7,22 @@ Configurar un entorn de desenvolupament utilitzant GitHub Codespaces i començar
 - **Accedeix a GitHub Codespaces:** 
 	- Inicia sessió a GitHub i obre el teu repositori o crea'n un nou amb nom ``daw1-apellido-apellido-nombre-glamourcamping``. 
 	
-	-![[Pasted image 20240826160812.png]]
+	-![](image.png)
 	
 	- Després, accedeix a la secció de "Codespaces" i crea un nou Codespace per al teu repositori.
-	![[Pasted image 20240826161003.png]]
+  
+	![](image2.png)
 
 - **Configura l'entorn de treball:** 
 	- Assegura't que GitHub Codespaces estigui configurat amb les eines necessàries, com Visual Studio Code, per treballar amb arxius HTML i CSS. 
 	- Verifica que la configuració inclogui les extensions recomanades per a HTML i CSS.
-	![[Pasted image 20240826161246.png]]
+  
+	![](image3.png)
+
 ### Tasca 2. Creació del Repositori i Configuració Inicial:
  
  - **Configura l'estructura de fitxers:** Crea els fitxers inicials necessaris dins del repositori, incloent `index.html` i una carpeta ``articles`` amb els fitxers `article1.html`, `article2.html`, i `article3.html`. Assegura't de seguir les convencions de nomenclatura i estructura establertes.
+  
 ### Tasca 3. Desenvolupament:
     
 - **Desenvolupa la pàgina principal:** Treballa en la creació de `index.html` amb una estructura bàsica (``html``, ``head``, ``body``, ``header``, ``main``, ``footer``)
@@ -59,21 +63,21 @@ Configurar un entorn de desenvolupament utilitzant GitHub Codespaces i començar
 
 	*Resultat de la pàgina index.html:*	
 	
-	![[Pasted image 20240826165659.png]]
+	![](image4.png)
 
 - **Fes commit i puja els canvis:** Un cop completades les edicions, utilitza Git per fer commit dels canvis al teu repositori i puja els canvis a GitHub.
 
-	![[Pasted image 20240826162813.png]]
+	![](image5.png)
 ### Tasca 5. Documentació i Informes:
     
 - **Documenta el teu treball:** Documenta el que has fet a l'arxiu ``readme.md`` i torna a actualitzar el teu repositori. (Has de fer servir **Markdown**)
 - **Comprova el teu repositori desde la pàgina web de GitHub**
 
-	![[Pasted image 20240826163359.png]]
+	![](image6.png)
 
 - **Comparteix el repositori:** Assegura't que el repositori estigui accessible per al professor.
 
-	![[Pasted image 20240826163600.png]]
+	![](image7.png)
 
 ## **Recursos:**
 
