@@ -1,6 +1,36 @@
-# 45 Exercicis Complets CSS3 - Enunciat i Resolució
+# Exercicis Complets CSS3 - Enunciat i Resolució
 
 Aquests exercicis cobreixen aspectes essencials de CSS3 per a la pràctica de DAW1.
+
+## Índex
+
+- [Exercicis Complets CSS3 - Enunciat i Resolució](#exercicis-complets-css3---enunciat-i-resolució)
+  - [Índex](#índex)
+  - [Exercicis de Colors i Fons](#exercicis-de-colors-i-fons)
+    - [Exercici 1: Color de Fons Hexadecimal](#exercici-1-color-de-fons-hexadecimal)
+    - [Exercici 2: Color de Fons RGB](#exercici-2-color-de-fons-rgb)
+    - [Exercici 3: Color de Fons RGBA](#exercici-3-color-de-fons-rgba)
+    - [Exercici 4: Gradient Horitzontal](#exercici-4-gradient-horitzontal)
+    - [Exercici 5: Gradient Radial](#exercici-5-gradient-radial)
+    - [Exercici 6: Fons amb Imatge](#exercici-6-fons-amb-imatge)
+    - [Exercici 7: Imatge i Color de Fons](#exercici-7-imatge-i-color-de-fons)
+  - [Exercicis de Fonts i Tipografia](#exercicis-de-fonts-i-tipografia)
+    - [Exercici 8: Fonts de Google Fonts](#exercici-8-fonts-de-google-fonts)
+    - [Exercici 9: Text Italic i Bold](#exercici-9-text-italic-i-bold)
+    - [Exercici 10: Subratllat i Ratllat](#exercici-10-subratllat-i-ratllat)
+    - [Exercici 11: Ombra de Text](#exercici-11-ombra-de-text)
+    - [Exercici 12: Text en Majúscules](#exercici-12-text-en-majúscules)
+  - [Exercicis del Model de Caixes (Box Model)](#exercicis-del-model-de-caixes-box-model)
+    - [Exercici 13: Bord i Radi de Bord](#exercici-13-bord-i-radi-de-bord)
+    - [Exercici 14: Esquines Rodones Completes](#exercici-14-esquines-rodones-completes)
+    - [Exercici 15: Ombra de Caixa](#exercici-15-ombra-de-caixa)
+    - [Exercici 16: Box-Sizing](#exercici-16-box-sizing)
+    - [Exercici 17: Margin i Padding](#exercici-17-margin-i-padding)
+  - [Exercicis de Display i Alineació](#exercicis-de-display-i-alineació)
+    - [Exercici 18: Display Inline i Block](#exercici-18-display-inline-i-block)
+    - [Exercici 19: Posicionament Relatiu i Absolut](#exercici-19-posicionament-relatiu-i-absolut)
+    - [Exercici 20: Centrat amb Flexbox](#exercici-20-centrat-amb-flexbox)
+    - [Exercici 21: Direcció de Columna en Flexbox](#exercici-21-direcció-de-columna-en-flexbox)
 
 ## Exercicis de Colors i Fons
 
@@ -362,3 +392,4 @@ Descripció: Organitza elements en una columna amb Flexbox.
   background-color: #E6E6FA;
   padding: 20px;
 }
+```
