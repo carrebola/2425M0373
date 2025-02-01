@@ -148,7 +148,7 @@ En esta sección, se agrega un evento de clic a un botón para ejecutar una func
 
 ```js
 // Sección 7: Capturar el evento clic en el botón
-const btnTabla = document.getElementById("btnTabla");
+const btnTabla = document.querySelector("#btnTabla");
 btnTabla.addEventListener("click", function() {
   console.log("Sección 7: Botón clickeado. Se ejecuta la función.");
 });
@@ -198,6 +198,13 @@ btnTabla.addEventListener("click", function() {
 ```
 
 ---
+## Sección 9: Añadir y borrar clases de un elemento del DOM
+```js
+
+btnTabla.classlist.add("nuevaclase")
+btnTabla.classlist.remove("claseanterior")
+```
+
 
 
 
