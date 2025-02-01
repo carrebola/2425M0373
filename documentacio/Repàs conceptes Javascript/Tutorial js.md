@@ -1,16 +1,21 @@
 # Tutorial Javascript básico
 Cada sección incluye ejemplos prácticos de código y explicaciones para que puedas ir aprendiendo paso a paso.
 
-## Resumen del Tutorial
+```
+## Índice del Tutorial de JavaScript
 
-1. **Sección 1:** Creas un documento HTML y vinculas un archivo JavaScript que imprime un mensaje en la consola.  
-2. **Sección 2:** Se muestran ejemplos de variables (`let`, `const`), arrays y objetos.  
-3. **Sección 3:** Se utiliza `querySelector` e `innerHTML` para inyectar código HTML en un elemento del DOM.  
-4. **Sección 4:** Se recorre un array simple con un bucle `for` y se muestran sus elementos en la consola.  
-5. **Sección 5:** Se crea un array de objetos (usuarios) y se accede a algunos de sus elementos, mostrándolos en la consola.  
-6. **Sección 6:** Se recorre el array de objetos y se construye una lista HTML que se inyecta en el DOM.  
-7. **Sección 7:** Se captura el evento clic en un botón para ejecutar una función que muestra un mensaje en la consola.  
-8. **Sección 8:** Al pulsar el botón, se inyecta una tabla HTML construida a partir de un array de objetos.
+1. [Sección 1: Crear un Documento HTML con JS Vinculado y Sacar un Mensaje en la Consola](#sección-1-crear-un-documento-html-con-js-vinculado-y-sacar-un-mensaje-en-la-consola)
+2. [Sección 2: Ejemplos con Tipos de Variables, Arrays y Objetos](#sección-2-ejemplos-con-tipos-de-variables-arrays-y-objetos)
+3. [Sección 3: Inyectar Código HTML en un Elemento del DOM con `innerHTML` y `querySelector`](#sección-3-inyectar-código-html-en-un-elemento-del-dom-con-innerhtml-y-queryselector)
+4. [Sección 4: Recorrer un Array con un Bucle y Mostrarlo en la Consola](#sección-4-recorrer-un-array-con-un-bucle-y-mostrarlo-en-la-consola)
+5. [Sección 5: Crear un Array de Objetos con Datos de Usuarios y Acceder a sus Elementos Mostrándolos en la Consola](#sección-5-crear-un-array-de-objetos-con-datos-de-usuarios-y-acceder-a-sus-elementos-mostr%C3%A1ndolos-en-la-consola)
+6. [Sección 6: Recorrer el Array de Objetos y Construir una Lista/Tabla a Partir de sus Datos](#sección-6-recorrer-el-array-de-objetos-y-construir-una-lista/tabla-a-partir-de-sus-datos)
+7. [Sección 7: Capturar Evento Clic al Pulsar un Botón y Ejecutar una Función](#sección-7-capturar-evento-clic-al-pulsar-un-botón-y-ejecutar-una-función)
+8. [Sección 8: Inyectar una Tabla de Datos a Partir de un Array de Objetos al Pulsar un Botón](#sección-8-inyectar-una-tabla-de-datos-a-partir-de-un-array-de-objetos-al-pulsar-un-botón)
+9. [Cómo Probar el Tutorial](#cómo-probar-el-tutorial)
+```
+
+Puedes agregar este índice al comienzo de tu documento para facilitar la navegación.
 
 ---
 
