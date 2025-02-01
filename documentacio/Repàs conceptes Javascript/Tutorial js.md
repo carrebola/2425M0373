@@ -1,4 +1,4 @@
-# Tutorial completo dividido en 8 secciones. 
+# Tutorial Javascript básico
 Cada sección incluye ejemplos prácticos de código y explicaciones para que puedas ir aprendiendo paso a paso.
 
 ---
