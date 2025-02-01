@@ -1,6 +1,17 @@
 # Tutorial Javascript básico
 Cada sección incluye ejemplos prácticos de código y explicaciones para que puedas ir aprendiendo paso a paso.
 
+## Resumen del Tutorial
+
+1. **Sección 1:** Creas un documento HTML y vinculas un archivo JavaScript que imprime un mensaje en la consola.  
+2. **Sección 2:** Se muestran ejemplos de variables (`let`, `const`), arrays y objetos.  
+3. **Sección 3:** Se utiliza `querySelector` e `innerHTML` para inyectar código HTML en un elemento del DOM.  
+4. **Sección 4:** Se recorre un array simple con un bucle `for` y se muestran sus elementos en la consola.  
+5. **Sección 5:** Se crea un array de objetos (usuarios) y se accede a algunos de sus elementos, mostrándolos en la consola.  
+6. **Sección 6:** Se recorre el array de objetos y se construye una lista HTML que se inyecta en el DOM.  
+7. **Sección 7:** Se captura el evento clic en un botón para ejecutar una función que muestra un mensaje en la consola.  
+8. **Sección 8:** Al pulsar el botón, se inyecta una tabla HTML construida a partir de un array de objetos.
+
 ---
 
 ## Sección 1: Crear un Documento HTML con JS Vinculado y Sacar un Mensaje en la Consola
@@ -186,18 +197,7 @@ btnTabla.addEventListener("click", function() {
 
 ---
 
-## Resumen del Tutorial
 
-1. **Sección 1:** Creas un documento HTML y vinculas un archivo JavaScript que imprime un mensaje en la consola.  
-2. **Sección 2:** Se muestran ejemplos de variables (`let`, `const`), arrays y objetos.  
-3. **Sección 3:** Se utiliza `querySelector` e `innerHTML` para inyectar código HTML en un elemento del DOM.  
-4. **Sección 4:** Se recorre un array simple con un bucle `for` y se muestran sus elementos en la consola.  
-5. **Sección 5:** Se crea un array de objetos (usuarios) y se accede a algunos de sus elementos, mostrándolos en la consola.  
-6. **Sección 6:** Se recorre el array de objetos y se construye una lista HTML que se inyecta en el DOM.  
-7. **Sección 7:** Se captura el evento clic en un botón para ejecutar una función que muestra un mensaje en la consola.  
-8. **Sección 8:** Al pulsar el botón, se inyecta una tabla HTML construida a partir de un array de objetos.
-
----
 
 ## Cómo Probar el Tutorial
 
