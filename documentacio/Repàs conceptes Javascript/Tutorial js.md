@@ -14,9 +14,6 @@ Cada sección incluye ejemplos prácticos de código y explicaciones para que pu
 8. [Sección 8: Inyectar una Tabla de Datos a Partir de un Array de Objetos al Pulsar un Botón](#sección-8-inyectar-una-tabla-de-datos-a-partir-de-un-array-de-objetos-al-pulsar-un-botón)
 9. [Cómo Probar el Tutorial](#cómo-probar-el-tutorial)
 
-
-Puedes agregar este índice al comienzo de tu documento para facilitar la navegación.
-
 ---
 
 ## Sección 1: Crear un Documento HTML con JS Vinculado y Sacar un Mensaje en la Consola
