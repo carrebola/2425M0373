@@ -1,7 +1,7 @@
 # Tutorial Javascript básico
 Cada sección incluye ejemplos prácticos de código y explicaciones para que puedas ir aprendiendo paso a paso.
 
-```
+
 ## Índice del Tutorial de JavaScript
 
 1. [Sección 1: Crear un Documento HTML con JS Vinculado y Sacar un Mensaje en la Consola](#sección-1-crear-un-documento-html-con-js-vinculado-y-sacar-un-mensaje-en-la-consola)
@@ -13,7 +13,7 @@ Cada sección incluye ejemplos prácticos de código y explicaciones para que pu
 7. [Sección 7: Capturar Evento Clic al Pulsar un Botón y Ejecutar una Función](#sección-7-capturar-evento-clic-al-pulsar-un-botón-y-ejecutar-una-función)
 8. [Sección 8: Inyectar una Tabla de Datos a Partir de un Array de Objetos al Pulsar un Botón](#sección-8-inyectar-una-tabla-de-datos-a-partir-de-un-array-de-objetos-al-pulsar-un-botón)
 9. [Cómo Probar el Tutorial](#cómo-probar-el-tutorial)
-```
+
 
 Puedes agregar este índice al comienzo de tu documento para facilitar la navegación.
 
