@@ -1,6 +1,8 @@
 
 ## Ejercicio: Lista de Tareas Dinámica
 
+![image](https://github.com/user-attachments/assets/94593fb5-bd1d-4367-bf00-006131f8a2fa)
+
 
 ### Objetivo
 
