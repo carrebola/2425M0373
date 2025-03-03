@@ -1,4 +1,4 @@
-# Història 6 - Generació de Notícies mitjançant JavaScript
+# Història 8 - Generació de Notícies mitjançant JavaScript
 
 ## Objectiu
 Generar els continguts de les notícies a partir d'un array d'objectes que simula una consulta a una base de dades.
