@@ -220,8 +220,4 @@ A continuació es presenta un resum de les paraules clau i opcions més utilitza
 - **Integra la validació en el teu flux de treball:**  
   Un cop dominis la validació en línia, considera implementar validacions automàtiques en el teu projecte emprant llibreries com AJV (Node.js), jsonschema (Python) o altres, per assegurar la integritat de les dades en entorns de producció.
 
----
 
-Amb aquest tutorial complet i l'índex corresponent, tens les bases per crear, validar i documentar esquemes JSON utilitzant un validador en línia com JSON Schema Lint. Ara pots experimentar, modificar i adaptar els teus esquemes per satisfer les necessitats dels teus projectes i assegurar que les teves dades mantinguin la integritat i consistència requerides.
-
-¡Manos a l'obra!
