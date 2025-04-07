@@ -29,7 +29,8 @@ En aquest projecte, utilitzem **Cloud Firestore**, una base de dades NoSQL basad
 
 La següent imatge mostra un exemple real del panell de Firestore a Firebase, on s'ha creat una col·lecció anomenada `alumnos`. Dins d'aquesta col·lecció s'emmagatzemen documents que representen usuaris individuals. Cada document té un identificador únic generat automàticament (com `1Gd1cHttMN6AavcYb9Za`) i conté camps com `nombre`, `apellidos` i `email`.
 
-![Exemple de Firestore](sandbox:/mnt/data/image.png)
+![image](https://github.com/user-attachments/assets/1fa3da90-e377-4fc6-9ce1-5250da216847)
+
 
 Aquest exemple és representatiu del tipus d'estructura que es crea en executar correctament les operacions CRUD descrites més avall. A la vista es poden observar múltiples documents dins la col·lecció i com es visualitzen els seus camps des de la consola de Firebase.
 
