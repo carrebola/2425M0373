@@ -36,5 +36,4 @@ El projecte es dividirà en **tres sprints**, cadascun amb diverses **històries
 4. **Gestió amb Scrumban i GitHub**:
    - Planificació amb Scrumban i control de versions a GitHub.
 
-5. **RSS**:
-   - Implementació d'un flux RSS per a novetats del càmping.
+
