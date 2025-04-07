@@ -5,7 +5,7 @@
 - [Apunts sobre XML i tecnologies relacionades](#apunts-sobre-xml-i-tecnologies-relacionades)
   - [Índex](#índex)
   - [XML (eXtensible Markup Language)](#xml-extensible-markup-language)
-    - [Regles per a un document XML ben format](#regles-per-a-un-document-xml-ben-format)
+    - [Algunes regles per a un document XML ben format](#algunes-regles-per-a-un-document-xml-ben-format)
     - [Com comprovar si un XML està ben format](#com-comprovar-si-un-xml-està-ben-format)
     - [Exemple document XML](#exemple-document-xml)
     - [Exemples de vocabularis XML](#exemples-de-vocabularis-xml)
@@ -28,7 +28,7 @@
 
 XML és un **metalenguatge**, és a dir, un llenguatge per definir altres llenguatges de marques. Això vol dir que no només s'utilitza per emmagatzemar dades, sinó també per crear **vocabularis específics** segons el context o aplicació. És auto-descriptiu i molt utilitzat en l'intercanvi de dades entre aplicacions i sistemes.
 
-### Regles per a un document XML ben format
+### Algunes regles per a un document XML ben format
 
 1. **Element arrel únic**:
    ```xml
@@ -132,12 +132,7 @@ Una consulta XQuery sol estar composta per diferents expressions clau que define
 - `return ...` → Indica què ha de retornar per a cada iteració o coincidència.
 - `if ... then ... else ...` → Condicional per controlar l'estructura dels resultats.
 
-Aquestes expressions poden combinar-se per construir consultes potents i precises sobre documents XML.
 
-- `for`: recorre una seqüència de nodes (similar a un bucle `for` en altres llenguatges).
-- `let`: assigna el resultat d'una expressió a una variable (no fa iteració).
-- `where`: filtra els nodes segons una condició.
-- `return`: especifica què es vol retornar per a cada element que compleix la condició.
 
 **Exemple:**
 
