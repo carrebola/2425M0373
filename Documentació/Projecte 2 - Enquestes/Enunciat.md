@@ -24,7 +24,7 @@ Crear una aplicació senzilla per gestionar enquestes realitzades al carrer, apr
 
 ## Backlog del Producte
 
-### Sprint 1: Estructura i Validació XML
+### Sprint 1:  Estructura de dades xml. Creació d’esquemes xsd per la validació	
 
 **Història d'Usuari 1: Creació de l'XML**
 - Crear un document XML amb múltiples enquestes.
@@ -34,13 +34,13 @@ Crear una aplicació senzilla per gestionar enquestes realitzades al carrer, apr
 - Crear un esquema XSD amb restriccions específiques per assegurar la qualitat de les dades.
 - Validar visualment el document XML amb Altova XMLSpy.
 
-### Sprint 2: Transformació XML a HTML
+### Sprint 2: Sprint 2: Transformació xml a html per visualització de dades a la web
 
 **Història d'Usuari 3: Transformació XML a HTML**
 - Crear un full d'estils XSLT per transformar eficaçment l'XML en una taula HTML clara.
 - Realitzar la transformació amb Altova XMLSpy i generar el fitxer HTML.
 
-### Sprint 3: Base de Dades i Consultes XML
+### Sprint 3: Sprint 3: Creació d’una base de dades nativa xml. Consultes.
 
 **Història d'Usuari 4: Creació de Base de Dades XML amb BaseX**
 - Crear i configurar una base de dades XML nativa amb BaseX.
@@ -50,21 +50,11 @@ Crear una aplicació senzilla per gestionar enquestes realitzades al carrer, apr
   - Filtrar enquestes per una ciutat concreta.
   - Obtenir totes les respostes d'una enquesta específica.
 
-### Sprint 4: Automatització amb Node.js
-
-**Història d'Usuari 6: Configuració d'entorn Node.js**
-- Preparar l'entorn de desenvolupament Node.js per executar scripts d'automatització.
-
-**Història d'Usuari 7: Automatització del Procés**
-- Crear un script en Node.js per executar automàticament les consultes definides en BaseX.
-- Mostrar clarament a la consola els resultats obtinguts.
-
 ## Lliurables Finals del Projecte
 Cada estudiant lliurarà:
 - Document XML validat.
 - Esquema XSD complet.
 - Fitxer XSLT operatiu per la transformació XML-HTML.
 - Base de dades XML creada amb BaseX.
-- Script Node.js funcional per l'automatització del procés.
 - Informe tutorial amb tot el procés.
 
