@@ -23,32 +23,32 @@ Crear una aplicació senzilla per gestionar enquestes realitzades al carrer, apr
 - **BaseX:** Base de dades XML per executar consultes XPath i XQuery.
 
 ## Backlog del Producte
+### Sprint 1: Creació d’una base de dades nativa xml. Consultes.
 
-### Sprint 1:  Estructura de dades xml. Creació d’esquemes xsd per la validació	
-
-**Història d'Usuari 1: Creació de l'XML**
-- Crear un document XML amb múltiples enquestes.
-- Definir clarament elements essencials: data, lloc (carrer, ciutat, província, país), preguntes i respostes.
-
-**Història d'Usuari 2: Disseny i Validació de l'Esquema XSD**
-- Crear un esquema XSD amb restriccions específiques per assegurar la qualitat de les dades.
-- Validar visualment el document XML amb Altova XMLSpy.
-
-### Sprint 2: Sprint 2: Transformació xml a html per visualització de dades a la web
-
-**Història d'Usuari 3: Transformació XML a HTML**
-- Crear un full d'estils XSLT per transformar eficaçment l'XML en una taula HTML clara.
-- Realitzar la transformació amb Altova XMLSpy i generar el fitxer HTML.
-
-### Sprint 3: Sprint 3: Creació d’una base de dades nativa xml. Consultes.
-
-**Història d'Usuari 4: Creació de Base de Dades XML amb BaseX**
+**Història d'Usuari 1: Creació de Base de Dades XML amb BaseX**
 - Crear i configurar una base de dades XML nativa amb BaseX.
 
-**Història d'Usuari 5: Consultes XPath i XQuery**
+**Història d'Usuari 2: Consultes XPath i XQuery**
 - Desenvolupar consultes específiques utilitzant BaseX:
   - Filtrar enquestes per una ciutat concreta.
   - Obtenir totes les respostes d'una enquesta específica.
+### Sprint 2:  Estructura de dades xml. Creació d’esquemes xsd per la validació	
+
+**Història d'Usuari 3: Creació de l'XML**
+- Crear un document XML amb múltiples enquestes.
+- Definir clarament elements essencials: data, lloc (carrer, ciutat, província, país), preguntes i respostes.
+
+**Història d'Usuari 4: Disseny i Validació de l'Esquema XSD**
+- Crear un esquema XSD amb restriccions específiques per assegurar la qualitat de les dades.
+- Validar visualment el document XML amb Altova XMLSpy.
+
+### Sprint 3: Transformació xml a html per visualització de dades a la web
+
+**Història d'Usuari 5: Transformació XML a HTML**
+- Crear un full d'estils XSLT per transformar eficaçment l'XML en una taula HTML clara.
+- Realitzar la transformació amb Altova XMLSpy i generar el fitxer HTML.
+
+
 
 ## Lliurables Finals del Projecte
 Cada estudiant lliurarà:
