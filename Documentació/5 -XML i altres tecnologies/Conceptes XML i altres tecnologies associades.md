@@ -217,6 +217,10 @@ Per transformar un document XML en una pàgina HTML visualitzable, cal seguir aq
     <titol>1984</titol>
     <autor>George Orwell</autor>
   </llibre>
+  <llibre>
+    <titol>El nombre del viento</titol>
+    <autor>Patrick Rothfuss</autor>
+  </llibre>
 </llibres>
 ```
 
@@ -249,6 +253,10 @@ Per transformar un document XML en una pàgina HTML visualitzable, cal seguir aq
     <div>
       <h2>1984</h2>
       <p>George Orwell</p>
+    </div>
+    <div>
+      <h2>El nombre del viento</h2>
+      <p>Patrick Rothfuss</p>
     </div>
   </body>
 </html>
