@@ -59,8 +59,7 @@ XML és un **metalenguatge**, és a dir, un llenguatge per definir altres llengu
 
 ### Exemple document XML
 
-Aquest exemple mostra una estructura XML ben formada i pensada per practicar diferents tipus de consultes. És útil per aplicar coneixements de sintaxi bàsica, XPath, XQuery i validació amb XSD. A continuació, es pot veure una mostra de dades amb diversos llibres, cadascun amb el seu títol, autor i any de publicació. representa un conjunt de llibres, cadascun amb títol, autor i any de publicació. Aquest tipus d'estructura és molt útil per practicar consultes amb XPath i XQuery, ja que permet filtrar, ordenar i extreure informació basada en valors específics o estructures jeràrquiques.
-
+Aquest exemple mostra una estructura XML ben formada i pensada per practicar diferents tipus de consultes. És útil per aplicar coneixements de sintaxi bàsica, XPath, XQuery i validació amb XSD. A continuació, es pot veure una mostra de dades amb diversos llibres, cadascun amb el seu títol, autor i any de publicació. 
 ```xml
 <llibres>
   <llibre>
