@@ -124,7 +124,7 @@ Crear una aplicació senzilla per gestionar enquestes realitzades al carrer, apr
 
 Cada estudiant lliurarà:
 
-1. **Document XML validat** amb un mínim de 3 enquestes i 10 respostes totals.
+1. **Document XML validat** amb un mínim de 3 persones enquestades i 10 respostes totals.
 2. **Esquema XSD complet** que implementi les regles anteriors.
 3. **Fitxer XSLT operatiu** per a la transformació XML‑HTML.
 4. **Base de dades XML** creada i poblada a BaseX.
